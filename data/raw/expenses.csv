@@ -1,0 +1,81 @@
+date,vendor_name,expense_category,amount_inr,notes
+01/06/2026,Reliance Traders,SALES,"23,591.35",recurring
+11/05/2026,Reliance Traders,SALES,"(74,003.40)",
+03/07/2026,Shree Hardware,Salary ,82617.97,
+14/06/2026,Bharat Supplies,Utilties,"₹38,833.07",recurring
+21/05/2026,Shree Hardware,utilities,66142.61,
+30/06/2026,Sunrise Electricals,salary,4704.93,recurring
+17/04/2026,Shree Hardware,Utilties,"(41,538.41)",one-time
+31/05/2026,Sunrise Electricals,Rent,"(10,117.58)",
+28/05/2026,Shree Hardware,Salary ,"50,619.84",
+13/06/2026,Bharat Supplies,salary,"₹5,129.08",recurring
+15/06/2026,Metro Logistics,SALES,"65,071.60",recurring
+09/07/2026,Reliance Traders,rent,"₹63,622.69",urgent
+03/05/2026,Om Distributors,purchase,"42,772.17",
+29/04/2026,Metro Logistics,sales,"(37,360.56)",
+20/05/2026,Om Distributors,Utilties,"(48,952.27)",recurring
+10/07/2026,Bharat Supplies,sales,"₹82,143.87",
+13/04/2026,Metro Logistics,utilities,7946.97,urgent
+19/04/2026,Om Distributors,Utilties,"(44,774.83)",recurring
+14/05/2026,Sunrise Electricals,utilities,66335.46,
+10/07/2026,Om Distributors,Rent,"16,884.86",recurring
+02/07/2026,Sunrise Electricals,Sales,"₹12,874.54",urgent
+30/06/2026,Metro Logistics,Salary ,"(6,867.35)",one-time
+17/03/2026,Metro Logistics,salary,"38,432.49",recurring
+01/07/2026,Bharat Supplies,Sales,"40,123.83",recurring
+25/07/2026,Kirti Enterprises,Rent,"(6,769.11)",one-time
+30/07/2026,Reliance Traders,utilities,70778.37,
+01/04/2026,Bharat Supplies,rent,49537.83,one-time
+15/03/2026,Shree Hardware,purchase,"(27,669.01)",
+01/07/2026,Reliance Traders,rent,"9,245.91",
+01/04/2026,Shree Hardware,SALES,"(3,807.51)",one-time
+27/03/2026,Om Distributors,salary,"13,914.05",recurring
+01/05/2026,Bharat Supplies,utilities,57866.86,recurring
+23/07/2026,Kirti Enterprises,Sales,"(47,647.89)",recurring
+05/06/2026,Shree Hardware,Salary ,"₹81,992.65",recurring
+19/07/2026,Om Distributors,Salary ,"12,450.70",recurring
+30/04/2026,Sunrise Electricals,salary,60396.47,recurring
+18/03/2026,Bharat Supplies,Salary ,"₹67,395.44",
+16/07/2026,Shree Hardware,Salary ,"36,277.84",
+08/05/2026,Kirti Enterprises,SALES,"80,873.81",one-time
+20/06/2026,Sunrise Electricals,SALES,"13,592.87",
+01/04/2026,Metro Logistics,Rent,71067.63,recurring
+06/07/2026,Om Distributors,Utilties,"₹13,534.36",
+27/06/2026,Shree Hardware,rent,"4,192.01",urgent
+17/04/2026,Om Distributors,Purchase,"(64,077.05)",urgent
+25/03/2026,Sunrise Electricals,Purchase,"(82,092.92)",urgent
+06/05/2026,Shree Hardware,salary,"(83,685.16)",recurring
+03/05/2026,Om Distributors,Rent,"₹35,876.84",urgent
+04/07/2026,Metro Logistics,Purchase,"(4,909.19)",recurring
+20/03/2026,Reliance Traders,Rent,"72,423.53",
+28/06/2026,Kirti Enterprises,rent,"₹76,998.37",one-time
+16/07/2026,Sunrise Electricals,rent,75251.22,one-time
+26/07/2026,Bharat Supplies,Rent,"(32,099.75)",
+05/05/2026,Sunrise Electricals,sales,27428.87,recurring
+02/07/2026,Sunrise Electricals,sales,"(24,741.31)",urgent
+10/04/2026,Bharat Supplies,salary,943.73,
+04/06/2026,Sunrise Electricals,SALES,"(46,873.96)",
+27/05/2026,Sunrise Electricals,Purchase,"₹10,796.19",one-time
+13/04/2026,Reliance Traders,Sales,"(71,200.11)",
+24/03/2026,Reliance Traders,Salary ,"₹44,049.25",urgent
+26/05/2026,Bharat Supplies,sales,"₹52,451.41",
+24/04/2026,Sunrise Electricals,Salary ,"56,964.16",
+27/03/2026,Om Distributors,Rent,66951.84,one-time
+10/04/2026,Reliance Traders,Salary ,"33,191.47",recurring
+04/08/2026,Kirti Enterprises,Sales,29635.81,
+15/05/2026,Sunrise Electricals,sales,"30,269.27",urgent
+12/04/2026,Shree Hardware,rent,"₹53,881.68",
+13/04/2026,Reliance Traders,Purchase,"₹17,534.44",
+20/05/2026,Kirti Enterprises,Rent,"(34,149.93)",recurring
+30/07/2026,Metro Logistics,Salary ,"16,648.24",
+16/05/2026,Kirti Enterprises,Sales,"(68,044.43)",one-time
+18/04/2026,Bharat Supplies,utilities,"(82,779.64)",one-time
+06/05/2026,Metro Logistics,Rent,23037.9,one-time
+19/07/2026,Bharat Supplies,salary,"₹84,585.79",
+25/05/2026,Kirti Enterprises,Sales,"7,265.82",recurring
+16/04/2026,Om Distributors,Utilties,"(14,581.48)",recurring
+16/04/2026,Reliance Traders,utilities,"(52,454.95)",recurring
+25/07/2026,Reliance Traders,Salary ,"54,369.81",
+29/06/2026,Reliance Traders,SALES,"(72,212.56)",
+07/07/2026,Reliance Traders,purchase,"66,284.55",recurring
+02/05/2026,Om Distributors,sales,"(51,630.51)",recurring

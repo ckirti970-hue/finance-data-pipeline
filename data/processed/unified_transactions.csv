@@ -1,0 +1,267 @@
+date,reference,amount,category,direction,source
+2026-02-26,Reliance Traders PYMT REF5506,21193.36,Salary,CR,bank
+2026-03-22,Om Distributors PYMT REF7912,3185.64,Purchase,CR,bank
+2026-04-01,Om Distributors PYMT REF4257,-61003.66,Rent,CR,bank
+2026-03-11,Metro Logistics PYMT REF1106,64619.22,Utilities,DR,bank
+2026-05-29,Sunrise Electricals PYMT REF6514,-9136.77,Utilities,CR,bank
+2026-05-12,Metro Logistics PYMT REF1711,62162.34,Sales,DR,bank
+2026-03-20,Metro Logistics PYMT REF6925,49286.26,Salary,CR,bank
+2026-06-11,Reliance Traders PYMT REF4814,-73717.87,Rent,DR,bank
+2026-02-27,Sunrise Electricals PYMT REF7065,30520.37,Salary,CR,bank
+2026-02-27,Om Distributors PYMT REF5010,-14307.51,Salary,DR,bank
+2026-02-13,Shree Hardware PYMT REF6313,71720.99,Sales,CR,bank
+2026-05-20,Kirti Enterprises PYMT REF2084,18328.05,Salary,CR,bank
+2026-04-03,Shree Hardware PYMT REF8517,12572.65,Uncategorized,CR,bank
+2026-03-18,Shree Hardware PYMT REF8019,-76366.03,Purchase,DR,bank
+2026-07-04,Reliance Traders PYMT REF1771,73263.2,Uncategorized,CR,bank
+2026-02-15,Om Distributors PYMT REF2040,-33012.84,Rent,DR,bank
+2026-08-06,Shree Hardware PYMT REF9797,63949.17,Purchase,CR,bank
+2026-04-19,Bharat Supplies PYMT REF1053,81097.45,Rent,CR,bank
+2026-07-12,Metro Logistics PYMT REF9317,51957.98,Uncategorized,DR,bank
+2026-06-28,Om Distributors PYMT REF6310,41787.18,Uncategorized,DR,bank
+2026-05-22,Reliance Traders PYMT REF4946,74691.81,Uncategorized,CR,bank
+2026-04-06,Metro Logistics PYMT REF9727,65213.01,Rent,DR,bank
+2026-06-27,Om Distributors PYMT REF7932,81988.67,Utilities,DR,bank
+2026-02-18,Bharat Supplies PYMT REF9479,38650.58,Sales,CR,bank
+2026-05-14,Om Distributors PYMT REF4770,50223.19,Uncategorized,CR,bank
+2026-02-28,Sunrise Electricals PYMT REF2104,77007.99,Rent,CR,bank
+2026-06-09,Shree Hardware PYMT REF8953,18603.01,Purchase,DR,bank
+2026-04-09,Sunrise Electricals PYMT REF2545,-8690.65,Utilities,DR,bank
+2026-04-25,Metro Logistics PYMT REF1887,57399.3,Utilities,CR,bank
+2026-05-14,Sunrise Electricals PYMT REF4139,-16572.65,Utilities,CR,bank
+2026-06-23,Bharat Supplies PYMT REF5092,74394.06,Uncategorized,DR,bank
+2026-03-21,Reliance Traders PYMT REF9856,71144.33,Sales,CR,bank
+2026-04-26,Bharat Supplies PYMT REF4502,73562.96,Utilities,CR,bank
+2026-08-08,Kirti Enterprises PYMT REF8454,-24603.56,Purchase,CR,bank
+2026-05-25,Reliance Traders PYMT REF9883,5650.91,Sales,CR,bank
+2026-03-12,Om Distributors PYMT REF9701,13803.07,Sales,CR,bank
+2026-03-09,Shree Hardware PYMT REF4853,34619.03,Salary,CR,bank
+2026-07-19,Shree Hardware PYMT REF9565,27233.25,Salary,CR,bank
+2026-05-20,Kirti Enterprises PYMT REF7484,11559.21,Utilities,DR,bank
+2026-07-21,Bharat Supplies PYMT REF2638,6690.53,Sales,DR,bank
+2026-05-11,Sunrise Electricals PYMT REF7054,-24581.43,Salary,DR,bank
+2026-02-22,Shree Hardware PYMT REF5905,79233.39,Purchase,CR,bank
+2026-07-10,Shree Hardware PYMT REF3546,23513.42,Purchase,DR,bank
+2026-02-14,Om Distributors PYMT REF9004,21719.75,Salary,CR,bank
+2026-04-22,Reliance Traders PYMT REF1058,28685.53,Sales,DR,bank
+2026-04-17,Om Distributors PYMT REF1158,9953.34,Utilities,CR,bank
+2026-03-12,Bharat Supplies PYMT REF3088,4034.54,Utilities,CR,bank
+2026-06-16,Shree Hardware PYMT REF2684,-30385.84,Purchase,CR,bank
+2026-06-28,Bharat Supplies PYMT REF1406,15655.98,Uncategorized,DR,bank
+2026-02-18,Kirti Enterprises PYMT REF3608,67033.15,Sales,DR,bank
+2026-04-10,Sunrise Electricals PYMT REF8541,30046.14,Sales,CR,bank
+2026-02-21,Bharat Supplies PYMT REF6378,24041.96,Utilities,DR,bank
+2026-02-25,Shree Hardware PYMT REF9785,28482.16,Purchase,CR,bank
+2026-06-24,Reliance Traders PYMT REF2776,50910.27,Utilities,DR,bank
+2026-03-06,Bharat Supplies PYMT REF4114,-22024.05,Rent,CR,bank
+2026-03-24,Kirti Enterprises PYMT REF8066,6412.79,Salary,DR,bank
+2026-07-08,Om Distributors PYMT REF6067,56852.45,Uncategorized,DR,bank
+2026-05-25,Sunrise Electricals PYMT REF7888,-56686.54,Salary,CR,bank
+2026-03-16,Bharat Supplies PYMT REF9977,70949.78,Purchase,DR,bank
+2026-04-20,Bharat Supplies PYMT REF8238,37862.5,Uncategorized,DR,bank
+2026-06-26,Kirti Enterprises PYMT REF9445,56595.65,Uncategorized,CR,bank
+2026-06-09,Sunrise Electricals PYMT REF4262,12951.41,Rent,CR,bank
+2026-03-05,Bharat Supplies PYMT REF7790,75378.57,Rent,DR,bank
+2026-04-28,Sunrise Electricals PYMT REF1090,75929.76,Purchase,DR,bank
+2026-06-24,Reliance Traders PYMT REF5082,78026.22,Sales,DR,bank
+2026-04-12,Metro Logistics PYMT REF8251,-52269.12,Sales,DR,bank
+2026-04-09,Kirti Enterprises PYMT REF5050,71468.41,Salary,DR,bank
+2026-06-08,Bharat Supplies PYMT REF2269,60794.54,Utilities,DR,bank
+2026-05-19,Sunrise Electricals PYMT REF3471,20041.6,Sales,CR,bank
+2026-04-24,Kirti Enterprises PYMT REF9890,39870.6,Utilities,CR,bank
+2026-05-01,Metro Logistics PYMT REF7232,40804.79,Uncategorized,DR,bank
+2026-05-01,Om Distributors PYMT REF9947,68088.86,Purchase,DR,bank
+2026-05-31,Bharat Supplies PYMT REF1475,-33358.43,Rent,CR,bank
+2026-07-07,Bharat Supplies PYMT REF1444,-7593.56,Rent,CR,bank
+2026-06-23,Kirti Enterprises PYMT REF7211,-28161.3,Utilities,DR,bank
+2026-05-03,Metro Logistics PYMT REF7906,21816.94,Sales,DR,bank
+2026-03-23,Kirti Enterprises PYMT REF4673,55437.18,Purchase,CR,bank
+2026-06-18,Om Distributors PYMT REF3496,-20657.05,Salary,CR,bank
+2026-06-14,Shree Hardware PYMT REF5198,65302.89,Uncategorized,CR,bank
+2026-06-28,Reliance Traders PYMT REF1420,-78990.97,Uncategorized,DR,bank
+2026-06-19,Om Distributors PYMT REF4978,9110.66,Uncategorized,CR,bank
+2026-03-17,Kirti Enterprises PYMT REF9728,36697.94,Rent,CR,bank
+2026-02-24,Reliance Traders PYMT REF7882,69986.96,Utilities,DR,bank
+2026-02-27,Shree Hardware PYMT REF3506,37298.66,Rent,DR,bank
+2026-04-19,Kirti Enterprises PYMT REF5022,70696.77,Rent,DR,bank
+2026-06-07,Om Distributors PYMT REF7209,-28925.51,Sales,DR,bank
+2026-04-06,Kirti Enterprises PYMT REF5232,29258.63,Rent,CR,bank
+2026-06-21,Sunrise Electricals PYMT REF7658,41784.83,Salary,DR,bank
+2026-04-05,Metro Logistics PYMT REF1282,8363.01,Uncategorized,DR,bank
+2026-06-07,Shree Hardware PYMT REF7046,40490.51,Uncategorized,DR,bank
+2026-03-21,Kirti Enterprises PYMT REF8434,23392.44,Sales,CR,bank
+2026-06-20,Reliance Traders PYMT REF9779,80849.15,Purchase,CR,bank
+2026-04-07,Shree Hardware PYMT REF9595,50928.82,Purchase,CR,bank
+2026-06-11,Sunrise Electricals PYMT REF5952,1695.54,Sales,DR,bank
+2026-07-26,Shree Hardware PYMT REF3068,-54399.99,Sales,CR,bank
+2026-03-15,Bharat Supplies PYMT REF8843,37719.61,Purchase,CR,bank
+2026-04-08,Metro Logistics PYMT REF2070,34359.78,Sales,CR,bank
+2026-07-01,Reliance Traders PYMT REF5066,-10509.16,Uncategorized,CR,bank
+2026-03-28,Bharat Supplies PYMT REF8253,-25626.34,Salary,DR,bank
+2026-03-03,Om Distributors PYMT REF2625,80571.37,Purchase,CR,bank
+2026-02-20,Sunrise Electricals PYMT REF4929,15187.24,Sales,CR,bank
+2026-04-26,Shree Hardware PYMT REF8699,25111.41,Uncategorized,DR,bank
+2026-05-28,Reliance Traders PYMT REF4824,78570.48,Sales,DR,bank
+2026-03-22,Shree Hardware PYMT REF3441,77260.77,Sales,CR,bank
+2026-06-27,Om Distributors PYMT REF5728,-37608.47,Uncategorized,DR,bank
+2026-04-27,Om Distributors PYMT REF9847,42225.7,Utilities,CR,bank
+2026-05-18,Reliance Traders PYMT REF2496,19844.11,Salary,DR,bank
+2026-07-29,Bharat Supplies PYMT REF9502,55552.55,Salary,CR,bank
+2026-04-19,Reliance Traders PYMT REF8700,29902.71,Salary,DR,bank
+2026-07-13,Kirti Enterprises PYMT REF7744,59115.43,Uncategorized,DR,bank
+2026-03-21,Bharat Supplies PYMT REF2442,27076.7,Uncategorized,CR,bank
+2026-04-27,Shree Hardware PYMT REF9889,39537.0,Rent,CR,bank
+2026-05-08,Shree Hardware PYMT REF8242,64719.2,Rent,DR,bank
+2026-07-06,Bharat Supplies PYMT REF8941,10760.5,Purchase,CR,bank
+2026-03-20,Om Distributors PYMT REF7684,8376.18,Sales,DR,bank
+2026-02-24,Bharat Supplies PYMT REF5781,43499.69,Rent,DR,bank
+2026-04-10,Bharat Supplies PYMT REF3369,32913.02,Purchase,CR,bank
+2026-04-24,Metro Logistics PYMT REF9318,23076.09,Uncategorized,DR,bank
+2026-05-24,Metro Logistics PYMT REF3434,-38233.25,Utilities,DR,bank
+2026-03-20,Bharat Supplies PYMT REF6272,73981.34,Purchase,DR,bank
+2026-07-13,Kirti Enterprises PYMT REF7744,59115.43,Uncategorized,DR,bank
+2026-03-03,Om Distributors PYMT REF2625,80571.37,Purchase,CR,bank
+2026-02-25,Shree Hardware PYMT REF9785,28482.16,Purchase,CR,bank
+2026-05-12,Metro Logistics PYMT REF1711,62162.34,Sales,DR,bank
+2026-05-11,Sunrise Electricals PYMT REF7054,-24581.43,Salary,DR,bank
+2026-03-15,Bharat Supplies PYMT REF8843,37719.61,Purchase,CR,bank
+2026-04-09,INV-1000,33123.65,Sales,CR,invoice
+2026-07-30,INV-1001,-73989.68,Sales,CR,invoice
+2026-03-27,INV-1002,,Sales,CR,invoice
+2026-06-30,INV-1003,66538.89,Sales,CR,invoice
+2026-04-29,INV-1004,-72474.17,Sales,CR,invoice
+2026-04-06,INV-1005,52675.32,Sales,CR,invoice
+2026-05-27,INV-1006,37170.59,Sales,CR,invoice
+2026-07-14,INV-1007,59143.1,Sales,CR,invoice
+2026-05-17,INV-1008,25289.58,Sales,CR,invoice
+2026-07-02,INV-1009,48320.92,Sales,CR,invoice
+2026-06-25,INV-1010,52865.53,Sales,CR,invoice
+2026-03-12,INV-1011,39467.17,Sales,CR,invoice
+2026-06-04,INV-1012,-76457.77,Sales,CR,invoice
+2026-03-22,INV-1013,37826.17,Sales,CR,invoice
+2026-05-24,INV-1014,-58831.49,Sales,CR,invoice
+2026-06-19,INV-1015,-9512.2,Sales,CR,invoice
+2026-05-09,INV-1016,84382.48,Sales,CR,invoice
+2026-04-29,INV-1017,48321.0,Sales,CR,invoice
+2026-04-03,INV-1018,66050.11,Sales,CR,invoice
+2026-05-10,INV-1019,52965.3,Sales,CR,invoice
+2026-07-15,INV-1020,-26604.83,Sales,CR,invoice
+2026-03-13,INV-1021,8116.27,Sales,CR,invoice
+2026-04-24,INV-1022,11667.5,Sales,CR,invoice
+2026-04-02,INV-1023,-22213.97,Sales,CR,invoice
+2026-05-14,INV-1024,40074.0,Sales,CR,invoice
+2026-06-12,INV-1025,82234.29,Sales,CR,invoice
+2026-04-29,INV-1026,-45840.36,Sales,CR,invoice
+2026-06-02,INV-1027,69994.26,Sales,CR,invoice
+2026-06-10,INV-1028,52851.71,Sales,CR,invoice
+2026-06-13,INV-1029,-54191.63,Sales,CR,invoice
+2026-05-23,INV-1030,10359.12,Sales,CR,invoice
+2026-05-23,INV-1031,8712.72,Sales,CR,invoice
+2026-04-14,INV-1032,50130.26,Sales,CR,invoice
+2026-07-14,INV-1033,52522.61,Sales,CR,invoice
+2026-05-06,INV-1034,38076.8,Sales,CR,invoice
+2026-07-14,INV-1035,46507.37,Sales,CR,invoice
+2026-04-29,INV-1036,-82313.48,Sales,CR,invoice
+2026-06-15,INV-1037,4773.88,Sales,CR,invoice
+2026-07-07,INV-1038,6297.56,Sales,CR,invoice
+2026-06-14,INV-1039,,Sales,CR,invoice
+2026-08-08,INV-1040,83946.06,Sales,CR,invoice
+2026-07-11,INV-1041,,Sales,CR,invoice
+2026-03-11,INV-1042,15223.8,Sales,CR,invoice
+2026-04-23,INV-1043,-63508.72,Sales,CR,invoice
+2026-05-08,INV-1044,38694.46,Sales,CR,invoice
+2026-07-28,INV-1045,39204.59,Sales,CR,invoice
+2026-04-08,INV-1046,36520.12,Sales,CR,invoice
+2026-04-17,INV-1047,27718.45,Sales,CR,invoice
+2026-07-07,INV-1048,32686.42,Sales,CR,invoice
+2026-04-01,INV-1049,8880.58,Sales,CR,invoice
+2026-03-20,INV-1050,36840.91,Sales,CR,invoice
+2026-05-14,INV-1051,34192.7,Sales,CR,invoice
+2026-04-21,INV-1052,32128.44,Sales,CR,invoice
+2026-04-09,INV-1053,70784.72,Sales,CR,invoice
+2026-07-15,INV-1054,69094.5,Sales,CR,invoice
+2026-03-18,INV-1055,-57116.12,Sales,CR,invoice
+2026-04-22,INV-1056,82329.68,Sales,CR,invoice
+2026-07-13,INV-1057,-13574.7,Sales,CR,invoice
+2026-07-12,INV-1058,10207.81,Sales,CR,invoice
+2026-06-12,INV-1059,71915.61,Sales,CR,invoice
+2026-06-01,Reliance Traders,23591.35,Sales,DR,expense
+2026-05-11,Reliance Traders,-74003.4,Sales,DR,expense
+2026-07-03,Shree Hardware,82617.97,Salary,DR,expense
+2026-06-14,Bharat Supplies,38833.07,Utilities,DR,expense
+2026-05-21,Shree Hardware,66142.61,Utilities,DR,expense
+2026-06-30,Sunrise Electricals,4704.93,Salary,DR,expense
+2026-04-17,Shree Hardware,-41538.41,Utilities,DR,expense
+2026-05-31,Sunrise Electricals,-10117.58,Rent,DR,expense
+2026-05-28,Shree Hardware,50619.84,Salary,DR,expense
+2026-06-13,Bharat Supplies,5129.08,Salary,DR,expense
+2026-06-15,Metro Logistics,65071.6,Sales,DR,expense
+2026-07-09,Reliance Traders,63622.69,Rent,DR,expense
+2026-05-03,Om Distributors,42772.17,Purchase,DR,expense
+2026-04-29,Metro Logistics,-37360.56,Sales,DR,expense
+2026-05-20,Om Distributors,-48952.27,Utilities,DR,expense
+2026-07-10,Bharat Supplies,82143.87,Sales,DR,expense
+2026-04-13,Metro Logistics,7946.97,Utilities,DR,expense
+2026-04-19,Om Distributors,-44774.83,Utilities,DR,expense
+2026-05-14,Sunrise Electricals,66335.46,Utilities,DR,expense
+2026-07-10,Om Distributors,16884.86,Rent,DR,expense
+2026-07-02,Sunrise Electricals,12874.54,Sales,DR,expense
+2026-06-30,Metro Logistics,-6867.35,Salary,DR,expense
+2026-03-17,Metro Logistics,38432.49,Salary,DR,expense
+2026-07-01,Bharat Supplies,40123.83,Sales,DR,expense
+2026-07-25,Kirti Enterprises,-6769.11,Rent,DR,expense
+2026-07-30,Reliance Traders,70778.37,Utilities,DR,expense
+2026-04-01,Bharat Supplies,49537.83,Rent,DR,expense
+2026-03-15,Shree Hardware,-27669.01,Purchase,DR,expense
+2026-07-01,Reliance Traders,9245.91,Rent,DR,expense
+2026-04-01,Shree Hardware,-3807.51,Sales,DR,expense
+2026-03-27,Om Distributors,13914.05,Salary,DR,expense
+2026-05-01,Bharat Supplies,57866.86,Utilities,DR,expense
+2026-07-23,Kirti Enterprises,-47647.89,Sales,DR,expense
+2026-06-05,Shree Hardware,81992.65,Salary,DR,expense
+2026-07-19,Om Distributors,12450.7,Salary,DR,expense
+2026-04-30,Sunrise Electricals,60396.47,Salary,DR,expense
+2026-03-18,Bharat Supplies,67395.44,Salary,DR,expense
+2026-07-16,Shree Hardware,36277.84,Salary,DR,expense
+2026-05-08,Kirti Enterprises,80873.81,Sales,DR,expense
+2026-06-20,Sunrise Electricals,13592.87,Sales,DR,expense
+2026-04-01,Metro Logistics,71067.63,Rent,DR,expense
+2026-07-06,Om Distributors,13534.36,Utilities,DR,expense
+2026-06-27,Shree Hardware,4192.01,Rent,DR,expense
+2026-04-17,Om Distributors,-64077.05,Purchase,DR,expense
+2026-03-25,Sunrise Electricals,-82092.92,Purchase,DR,expense
+2026-05-06,Shree Hardware,-83685.16,Salary,DR,expense
+2026-05-03,Om Distributors,35876.84,Rent,DR,expense
+2026-07-04,Metro Logistics,-4909.19,Purchase,DR,expense
+2026-03-20,Reliance Traders,72423.53,Rent,DR,expense
+2026-06-28,Kirti Enterprises,76998.37,Rent,DR,expense
+2026-07-16,Sunrise Electricals,75251.22,Rent,DR,expense
+2026-07-26,Bharat Supplies,-32099.75,Rent,DR,expense
+2026-05-05,Sunrise Electricals,27428.87,Sales,DR,expense
+2026-07-02,Sunrise Electricals,-24741.31,Sales,DR,expense
+2026-04-10,Bharat Supplies,943.73,Salary,DR,expense
+2026-06-04,Sunrise Electricals,-46873.96,Sales,DR,expense
+2026-05-27,Sunrise Electricals,10796.19,Purchase,DR,expense
+2026-04-13,Reliance Traders,-71200.11,Sales,DR,expense
+2026-03-24,Reliance Traders,44049.25,Salary,DR,expense
+2026-05-26,Bharat Supplies,52451.41,Sales,DR,expense
+2026-04-24,Sunrise Electricals,56964.16,Salary,DR,expense
+2026-03-27,Om Distributors,66951.84,Rent,DR,expense
+2026-04-10,Reliance Traders,33191.47,Salary,DR,expense
+2026-08-04,Kirti Enterprises,29635.81,Sales,DR,expense
+2026-05-15,Sunrise Electricals,30269.27,Sales,DR,expense
+2026-04-12,Shree Hardware,53881.68,Rent,DR,expense
+2026-04-13,Reliance Traders,17534.44,Purchase,DR,expense
+2026-05-20,Kirti Enterprises,-34149.93,Rent,DR,expense
+2026-07-30,Metro Logistics,16648.24,Salary,DR,expense
+2026-05-16,Kirti Enterprises,-68044.43,Sales,DR,expense
+2026-04-18,Bharat Supplies,-82779.64,Utilities,DR,expense
+2026-05-06,Metro Logistics,23037.9,Rent,DR,expense
+2026-07-19,Bharat Supplies,84585.79,Salary,DR,expense
+2026-05-25,Kirti Enterprises,7265.82,Sales,DR,expense
+2026-04-16,Om Distributors,-14581.48,Utilities,DR,expense
+2026-04-16,Reliance Traders,-52454.95,Utilities,DR,expense
+2026-07-25,Reliance Traders,54369.81,Salary,DR,expense
+2026-06-29,Reliance Traders,-72212.56,Sales,DR,expense
+2026-07-07,Reliance Traders,66284.55,Purchase,DR,expense
+2026-05-02,Om Distributors,-51630.51,Sales,DR,expense
